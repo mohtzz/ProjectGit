@@ -4,7 +4,7 @@ public class ProjectGitApplication {
     public static void main(String[] args) {
 
         int x = 1;
-        int y = 3;
+        int y = 4;
         System.out.println("Hello git!!");
 
     }
