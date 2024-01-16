@@ -3,7 +3,7 @@ package com.mohtzz;
 public class ProjectGitApplication {
     public static void main(String[] args) {
 
-        int x = 0;
+        int x = 1;
         System.out.println("Hello git!!");
 
     }
